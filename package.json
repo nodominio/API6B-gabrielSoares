@@ -1,5 +1,5 @@
 {
-  "name": "API6B-gabrielSoares",
+  "name": "express",
   "dependencies": {
     "cors": "^2.8.5",
     "ejs": "^3.1.10",
